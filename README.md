@@ -1,4 +1,4 @@
-# coursera-frontend
+# Coursera - Frontend
 HTML, CSS, and Javascript for Web Developers ( Johns Hopkins University )
 
 
@@ -7,3 +7,5 @@ HTML, CSS, and Javascript for Web Developers ( Johns Hopkins University )
 - [**Module 2 Coding Assignment**](https://hoanganh8499hd.github.io/coursera-frontend/Module-2-Coding-Assignment/index.html)
 
 - [**Module 3 Coding Assignment**](https://hoanganh8499hd.github.io/coursera-frontend/Module-3-Coding-Assignment/index.html)
+
+- [**Module 4 Coding Assignment**](https://hoanganh8499hd.github.io/coursera-frontend/Module-4-Coding-Assignment/index.html)
